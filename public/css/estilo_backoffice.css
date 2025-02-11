@@ -1,0 +1,13 @@
+table, th, td{
+    border: 2px solid black;
+    padding: 20px;
+}
+th,td{
+    max-width: 300px !important;
+    word-wrap: break-word;
+}
+label{
+    width: 100px!important;
+    display: inline-block;
+}
+main{margin: auto;}
